@@ -1,7 +1,6 @@
-# Sandwich Club Project
-* Udacity Android Developer Nanodegree Project
+_Part of the Android Developer Nanodegree Program_
 
-## Project Overview
+## Overview
 
 The **Sandwich Club** app shows the details of each sandwich once it is selected.
 
